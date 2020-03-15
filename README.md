@@ -6,7 +6,7 @@ Udemy course code by Tim Buchalka "C Programming for Beginners"
 
 - [x] Section 1: Introduction
 - [x] Section 2: Installing Required Software
-- [ ] Section 3: Starting to write code
+- [x] Section 3: Starting to write code
 - [ ] Section 4: Basic Concepts
 - [ ] Section 5: Variables and Data Types
 - [ ] Section 6: Operators
