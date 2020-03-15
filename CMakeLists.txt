@@ -3,4 +3,5 @@ project(udemy_c_programming_for_beginners C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(udemy_c_programming_for_beginners src/section3/main.c)
+add_executable(main src/section3/main.c)
+add_executable(assignment_section3 src/section3/assignment.c)
