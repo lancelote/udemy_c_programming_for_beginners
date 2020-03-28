@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(main src/section3/main.c)
 add_executable(assignment_section3 src/section3/assignment.c)
+add_executable(scanf_usage src/section3/scanf_usage.c)
