@@ -8,8 +8,8 @@ Udemy course code by Tim Buchalka "C Programming for Beginners"
 - [x] Section 2: Installing Required Software
 - [x] Section 3: Starting to write code
     - [Basic Assignment](src/section3/assignment.c)
-    - [`scanf()` Usage](src/section3/scanf_usage.c)
-- [ ] Section 4: Basic Concepts
+- [x] Section 4: Basic Concepts
+    - [`scanf()` Usage](src/section4/scanf_usage.c)
 - [ ] Section 5: Variables and Data Types
 - [ ] Section 6: Operators
 - [ ] Section 7: Control Flow
