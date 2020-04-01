@@ -12,6 +12,7 @@ Udemy course code by Tim Buchalka "C Programming for Beginners"
     - [`scanf()` Usage](src/section4/scanf_usage.c)
 - [ ] Section 5: Variables and Data Types
     - [Basic Variables Usage](src/section5/basic_variables_usage.c)
+    - [Basic Types](src/section5/basic_types.c)
 - [ ] Section 6: Operators
 - [ ] Section 7: Control Flow
 - [ ] Section 8: Arrays
