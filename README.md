@@ -14,6 +14,7 @@ Udemy course code by Tim Buchalka "C Programming for Beginners"
     - [Basic Variables Usage](src/section5/basic_variables_usage.c)
     - [Basic Types](src/section5/basic_types.c)
     - [Basic Boolean](src/section5/basic_enums.c)
+    - [Print Different Types](src/section5/print_types.c)
 - [ ] Section 6: Operators
 - [ ] Section 7: Control Flow
 - [ ] Section 8: Arrays
