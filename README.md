@@ -16,6 +16,7 @@ Udemy course code by Tim Buchalka "C Programming for Beginners"
     - [Basic Boolean](src/section5/basic_enums.c)
     - [Print Different Types](src/section5/print_types.c)
     - [Command Line Arguments](src/section5/command_line_arguments.c)
+    - [Challenge 1: Area Of A Rectangle](src/section5/challenge_1.c)
 - [ ] Section 6: Operators
 - [ ] Section 7: Control Flow
 - [ ] Section 8: Arrays
